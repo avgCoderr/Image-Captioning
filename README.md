@@ -5,5 +5,5 @@ The model involves image caption generator by using CNN (Convolutional Neural Ne
 For training model, Flickr_8K dataset is used.
 
 Here are the link to the datasets,
-The image and corresponding captions dataset: https://www.kaggle.com/shadabhussain/flickr8k
-For the glove model dataset (for pretrained word vectors): https://www.kaggle.com/incorpes/glove6b200d 
+1. The image and corresponding captions dataset: https://www.kaggle.com/shadabhussain/flickr8k
+2. For the glove model dataset (for pretrained word vectors): https://www.kaggle.com/incorpes/glove6b200d 
